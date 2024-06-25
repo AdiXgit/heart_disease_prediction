@@ -1,2 +1,6 @@
 # heart_disease_prediction
- logistic regression
+
+**
+Predicitng hear disease using logisitc regression**
+
+
